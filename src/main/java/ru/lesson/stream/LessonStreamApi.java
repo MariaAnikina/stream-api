@@ -4,7 +4,6 @@ import ru.lesson.stream.dto.Employee;
 import ru.lesson.stream.dto.PositionType;
 
 import java.util.Collection;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
